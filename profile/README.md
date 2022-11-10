@@ -23,6 +23,6 @@ Sumo Logic does not provide support for the projects in this labs organization.
 
 ## Sumo Logic supported projects
 
-We also maintain the [Sumo Logic organization][gh-sumo-link] for all Sumo-supported open source projects.
+All Sumo Logic-supported open source projects are maintained under the [Sumo Logic organization][gh-sumo-link].
 
 [gh-sumo-link]: https://github.com/SumoLogic
